@@ -1,0 +1,8 @@
+.over_drawer {
+  bottom: 0;
+  position: fixed;
+}
+
+.over_drawer_body_locked {
+  overflow: hidden;
+}
